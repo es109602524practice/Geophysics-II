@@ -1,1 +1,1 @@
-# Geophysics-II H
+# Geophysics-II Hw1
