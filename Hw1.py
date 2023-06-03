@@ -140,7 +140,13 @@
     # Plot the text as label
     fig.text(x=-80, y=50, text='North America Plate', font='8p,Helvetica-Bold,black')
     fig.text(x=-140, y=10, text='Pacific Plate', font='8p,Helvetica-Bold,black')
-    # fig.text(x=119.5, y=20.85, text='7.5 cm/yr', font='10p')
+    fig.text(x=-155, y=48, text='8.338845 cm/yr', font='4p')
+    fig.text(x=-155, y=56, text='E. Aleutian Trench', font='4p,Helvetica-Bold,black')
+    fig.text(x=-108, y=34, text='5.75578 cm/yr', font='4p')
+    fig.text(x=-108, y=42, text='San Francisco-San Andreas Fault', font='4p,Helvetica-Bold,black')
+    fig.text(x=-96, y=22, text='4.320888 cm/yr', font='4p')
+    fig.text(x=-96, y=30, text='Gulf of California', font='4p,Helvetica-Bold,black')
+    fig.text(x=0, y=-75, text='109602524', font='15p,Helvetica-Bold,black')
     #################################################################################
     fig.show()
-    fig.savefig('test.png')
+    fig.savefig('test01.png')
