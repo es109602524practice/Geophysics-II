@@ -149,4 +149,4 @@
     fig.text(x=0, y=-75, text='109602524', font='15p,Helvetica-Bold,black')
     #################################################################################
     fig.show()
-    fig.savefig('test01.png')
+    fig.savefig('Hw1.png')
